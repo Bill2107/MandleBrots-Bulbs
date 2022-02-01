@@ -1,8 +1,10 @@
-v = VideoWriter('MB2', 'MPEG-4');
+v = VideoWriter('MB_GPU', 'MPEG-4');
 open(v);
-for a = 0:18
-    frame = imread(sprintf('frames/test%d.png',a));
-    writeVideo(v, frame);
-    writeVideo(v, frame);
+for i = 1:8
+    for a = 0:35
+        frame = imread(sprintf('frames/GPUtest%d.png',a));
+        writeVideo(v, frame);
+        writeVideo(v, frame);
+    end
 end
 close(v);
