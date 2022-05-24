@@ -11,6 +11,8 @@ I was able to create animation of the 'camera' rotating and zooming into a mandl
 
 ## Images
 Below is a gif of one of the mandlebulbs I was able to generate spinning as the camera rotates around it.
+
+
 ![Alt Text](https://github.com/Bill2107/MandleBrots-Bulbs/blob/main/MB_GPU_5_AdobeCreativeCloudExpress.gif)
 
 
