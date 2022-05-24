@@ -10,5 +10,8 @@ I could achieve a computation time of 0.1s/frame, this was a huge improvement on
 I was able to create animation of the 'camera' rotating and zooming into a mandlebulb quickly.
 
 ## Images
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/Bill2107/MandleBrots-Bulbs/blob/main/MB_GPU_5_AdobeCreativeCloudExpress.gif)
+Below is a gif of one of the mandlebulbs I was able to generate spinning as the camera rotates around it.
+![Alt Text](https://github.com/Bill2107/MandleBrots-Bulbs/blob/main/MB_GPU_5_AdobeCreativeCloudExpress.gif)
+
+
 (I used the Adobe mp4 to gif tool to convert this from the mp4 that I initially generated)
